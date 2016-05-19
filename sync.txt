@@ -1,0 +1,3 @@
+/dir/something
+/dir/file.txt
+/dir/dir/something.txt
